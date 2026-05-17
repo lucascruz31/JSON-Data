@@ -1,0 +1,51 @@
+{
+  "perfiles": [
+    {
+      "id": "0001",
+      "username": "LucasC",
+      "name": "Lucas",
+      "lastname": "Cruz",
+      "password": "123",
+      "rol": "Admin"
+    },
+    {
+      "id": "0002",
+      "username": "YoimerC",
+      "name": "Yoimer",
+      "lastname": "Coronado",
+      "password": "456",
+      "rol": "Docente"
+    },
+    {
+      "id": "0003",
+      "username": "JesusD",
+      "name": "Jesus",
+      "lastname": "Durango",
+      "password": "789",
+      "rol": "Estudiante"
+    },
+    {
+      "id": "0004",
+      "username": "LuisT",
+      "name": "Luis",
+      "lastname": "Tirado",
+      "password": "987",
+      "rol": "Estudiante"
+    }
+  ],
+  "answers": [
+    {
+      "id": "0003",
+      "questionId": "1",
+      "answer": "a comment about post 1"
+    },
+    {
+      "id": "0003",
+      "questionId": "2",
+      "answer": "another comment about post 1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

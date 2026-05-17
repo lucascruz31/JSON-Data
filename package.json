@@ -1,0 +1,19 @@
+{
+  "name": "json-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch db.json --port 4000",
+    "start": "json-server db.json --port 4000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15",
+    "pinia": "^3.0.4"
+  }
+}

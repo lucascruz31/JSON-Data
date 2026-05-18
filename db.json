@@ -47,5 +47,56 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "cuestionario": {
+    "questions": [
+      {
+        "id": "qjrt088",
+        "text": "cuantas partes tiene una celula",
+        "options": [
+          {
+            "id": "yaf7lxw",
+            "text": "1"
+          },
+          {
+            "id": "9unsmq6",
+            "text": "2"
+          },
+          {
+            "id": "5t0hutv",
+            "text": "3"
+          },
+          {
+            "id": "vqcot5m",
+            "text": "4"
+          }
+        ],
+        "correctOptionId": "5t0hutv"
+      },
+      {
+        "id": "1ma04zd",
+        "text": "cual célula tiene pared celular ",
+        "options": [
+          {
+            "id": "ril57s1",
+            "text": "vegetal"
+          },
+          {
+            "id": "1hqpzwy",
+            "text": "animal"
+          },
+          {
+            "id": "ykad1q3",
+            "text": "NINGUNA"
+          },
+          {
+            "id": "e4336cs",
+            "text": "."
+          }
+        ],
+        "correctOptionId": "ril57s1"
+      }
+    ]
+  },
+  "$schema": "./node_modules/json-server/schema.json"
 }

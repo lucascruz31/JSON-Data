@@ -31,6 +31,14 @@
       "lastname": "Tirado",
       "password": "987",
       "rol": "Estudiante"
+    },
+    {
+      "username": "DavidS",
+      "name": "David",
+      "lastname": "Santis",
+      "password": "768",
+      "rol": "Estudiante",
+      "id": "BPiwYF8GCuI"
     }
   ],
   "answers": [
@@ -47,5 +55,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "$schema": "./node_modules/json-server/schema.json"
 }

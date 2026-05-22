@@ -97,6 +97,5 @@
         "correctOptionId": "ril57s1"
       }
     ]
-  },
-  "$schema": "./node_modules/json-server/schema.json"
+  }
 }

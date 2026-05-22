@@ -31,6 +31,14 @@
       "lastname": "Tirado",
       "password": "987",
       "rol": "Estudiante"
+    },
+    {
+      "username": "DavidS",
+      "name": "David",
+      "lastname": "Santis",
+      "password": "768",
+      "rol": "Estudiante",
+      "id": "BPiwYF8GCuI"
     }
   ],
   "answers": [
@@ -48,6 +56,7 @@
   "profile": {
     "name": "typicode"
   },
+<<<<<<< HEAD
   "cuestionario": {
     "questions": [
       {
@@ -98,4 +107,7 @@
       }
     ]
   }
+=======
+  "$schema": "./node_modules/json-server/schema.json"
+>>>>>>> 7cce7a4b27f0443971ffb4c82bfa126e62c9e152
 }
